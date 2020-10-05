@@ -16,7 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     }</style>
 			<script type="text/javascript">
-			var back_redirect_back_link = 'https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook-Voltou';
+			var back_redirect_back_link = 'https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook-Voltou';
 
 			history.pushState({},"",location.href);
 		    history.pushState({},"",location.href);
@@ -56,46 +56,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="columns">
 <ul class="barra-itens" data-analytics-context="Link Produto">
 <li class="">
-<a style="color:#2ca82e" target="_top" href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12" accesskey="n" class="barra-item-noticias">Empreender</a></li>
+<a style="color:#2ca82e" target="_top" href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12" accesskey="n" class="barra-item-noticias">Empreender</a></li>
 <li class="">
 <div class="v-separator"></div>
-<a target="_top" href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12" accesskey="e" class="barra-item-esportes no-show small">Esporte</a>
+<a target="_top" href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12" accesskey="e" class="barra-item-esportes no-show small">Esporte</a>
 </li>
 <li class="">
 <div class="v-separator"></div>
-<a target="_top" href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12" accesskey="undefined" class="barra-item-esportes no-show large"></a></li>
+<a target="_top" href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12" accesskey="undefined" class="barra-item-esportes no-show large"></a></li>
 <li class="">
 <div class="v-separator"></div>
-<a target="_top" href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12" accesskey="i" class="barra-item-gshow">Agenda</a></li>
+<a target="_top" href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12" accesskey="i" class="barra-item-gshow">Agenda</a></li>
 <li class="">
 <div class="v-separator"></div>
-<a target="_top" href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12" accesskey="t" class="barra-item-famosos-etc no-show small">Famosos</a></li>
+<a target="_top" href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12" accesskey="t" class="barra-item-famosos-etc no-show small">Famosos</a></li>
 <li class="">
 <div class="v-separator"></div>
-<a target="_top" href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12" accesskey="t" class="barra-item-famosos-etc no-show large"></a></li>
+<a target="_top" href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12" accesskey="t" class="barra-item-famosos-etc no-show large"></a></li>
 <li class="barra-menu-video">
 <div class="v-separator"></div>
-<a target="_top" href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12" accesskey="v" class="barra-item-videos">Vídeos</a>
+<a target="_top" href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12" accesskey="v" class="barra-item-videos">Vídeos</a>
 </li>
 </ul>
 <div id="barra-auth-area" class="auth-area">
 <ul class="barra-itens-servicos" data-analytics-context="Link Nao Logado">
 <li class="">
 <div class="v-separator"></div>
-<a target="_top" href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12" accesskey="n" class="barra-item-servico no-show small">MINHA CONTA</a></li>
-<li class="hover-button"><a href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12" class="barra-item-servico no-show small">E-MAIL<span></span></a>
-<div class="float-box no-show small"><span class="up-arrow"></span> <a href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12">Mail PRO</a> <a href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12">Mail FREE</a></div>
+<a target="_top" href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12" accesskey="n" class="barra-item-servico no-show small">MINHA CONTA</a></li>
+<li class="hover-button"><a href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12" class="barra-item-servico no-show small">E-MAIL<span></span></a>
+<div class="float-box no-show small"><span class="up-arrow"></span> <a href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12">Mail PRO</a> <a href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12">Mail FREE</a></div>
 </li>
 <li class="ult">
 <div class="v-separator"></div>
-<a target="_top" href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12" accesskey="e" class="barra-item-servico barra-botao-entrar barra-base-btn" id="barra-item-login">
+<a target="_top" href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12" accesskey="e" class="barra-item-servico barra-botao-entrar barra-base-btn" id="barra-item-login">
 <div class="no-show small">ENTRAR <span class="arrow no-show small">›</span>
 </div>
 <div class="no-show large">ENTRE</div>
 </a></li>
 </ul>
 <div id="login-popin-overlay"></div>
-<div id="login-popin"><a id="login-popin-close" href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12"></a></div>
+<div id="login-popin"><a id="login-popin-close" href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12"></a></div>
 </div>
 </div>
 </div>
@@ -112,12 +112,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 <h1 class="header-title">
 <div class="header-title-content">
-<a class="header-editoria--link ellip-line" href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12">BRASIL MANCHETE</a>
+<a class="header-editoria--link ellip-line" href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12">BRASIL MANCHETE</a>
 </div>
 </h1>
 <div class="search-area header-navegacao-color">
 <div id="busca-padrao">
-<form name="busca-padrao" id="frmBusca" action="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook" method="get" accept-charset="utf-8">
+<form name="busca-padrao" id="frmBusca" action="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook" method="get" accept-charset="utf-8">
 <fieldset>
 <input placeholder="BUSCAR" type="search" name="q" id="busca-campo" autocomplete="off" tabindex="1">
 <input type="text" class="search-hint" id="search-hint" value="" tabindex="-1">
@@ -250,7 +250,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="20" data-block-id="8">
 <p class="content-text__container " data-track-category="Link no Texto" data-track-links="">Entramos em contato com o fabricante de RAVERA para saber onde encontramos e podemos adquirir essas cápsulas.</p></div>
 <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="20" data-block-id="8">
-<p class="content-text__container " data-track-category="Link no Texto" data-track-links="">Segundo a resposta recebida, a única forma de adquiris essas cápsulas é por meio do site oficial do fabricante (<a href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12">clique aqui </a>para acessar). </p></div>
+<p class="content-text__container " data-track-category="Link no Texto" data-track-links="">Segundo a resposta recebida, a única forma de adquiris essas cápsulas é por meio do site oficial do fabricante (<a href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12">clique aqui </a>para acessar). </p></div>
 <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="20" data-block-id="8">
 <p class="content-text__container " data-track-category="Link no Texto" data-track-links="">Fica aqui o alerta, cuidado com outros sites, lojas e farmácias que possam anunciar esse produto ou "similares", pois, certamente, trata-se de uma cópia ilegal. E o pior, sem eficácia e sem certificação da ANVISA, podendo trazer riscos a sua saúde.</p></div>
 <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="20" data-block-id="8">
@@ -269,10 +269,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </p></div>
 <div class="mc-column content-text active-extra-styles " data-block-type="unstyled" data-block-weight="20" data-block-id="8">
 <p class="content-text__container " data-track-category="Link no Texto" data-track-links="">
-Gostou? Então clique na imagem abaixo, ou nesse <a href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12">LINK ESPECIAL</a> e aproveite a promoção.</p></div>
+Gostou? Então clique na imagem abaixo, ou nesse <a href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12">LINK ESPECIAL</a> e aproveite a promoção.</p></div>
 <div class="mc-column content-media content-media--normal  content-photo" data-block-type="backstage-photo" data-block-id="5">
 <div class="content-media__container">
-<div class="content-media__image-centered"><a href="https://go.perfectpay.com.br/PPU38CK56M7?src=Facebook?split=12"><img src="/news/ravera/adv1/comprar.png" style="width: 100%; margin-bottom: -6px"></a></div>
+<div class="content-media__image-centered"><a href="https://go.perfectpay.com.br/PPU38CK5K97?src=Facebook?split=12"><img src="/news/ravera/adv1/comprar.png" style="width: 100%; margin-bottom: -6px"></a></div>
 </div>
 </div>
 </article></div>
@@ -285,7 +285,7 @@ Gostou? Então clique na imagem abaixo, ou nesse <a href="https://go.perfectpay.
 <div class="column small-24">
 <div class="footer__service">
 <br><br><br>
-<span class="footer__copyright" style="color:#FFF">© 2019 RAVERA. Todos os direitos reservados</span>
+<span class="footer__copyright" style="color:#FFF">© 2020 RAVERA. Todos os direitos reservados</span>
 <br><br><br>
 </div>
 </div>
